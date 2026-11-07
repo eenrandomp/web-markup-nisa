@@ -1,5 +1,0 @@
-Student name: Nisa Köse
-Student number: 747420
-Student class: HAINF26VT1B
-GitHub Repository: https://github.com/eenrandomp/web-markup-nisa
-GitHub Pages URL: https://eenrandomp.github.io/web-markup-nisa
